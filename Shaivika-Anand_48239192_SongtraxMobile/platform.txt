@@ -1,0 +1,14 @@
+# Expo Go Platform Configuration
+
+# Platform: Expo Go
+# Emulator: N/A (Expo Go runs on physical devices)
+# - Expo Go is a mobile app that allows you to test your Expo projects on physical iOS and Android devices.
+# - You don't need to configure emulators when using Expo Go.
+
+# To test your Expo project on a physical device with Expo Go:
+# 1. Install the Expo Go app on your iOS or Android device.
+# 2. Connect your device to the same network as your development machine.
+# 3. Run 'expo start' in your Expo project directory.
+# 4. Scan the QR code provided by Expo CLI with the Expo Go app to load and test your project.
+
+# Since Expo Go handles the device-specific configurations, there's no need for a 'platform.txt' file when using Expo Go.
